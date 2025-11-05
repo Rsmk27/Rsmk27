@@ -1,15 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Srinivasa Manikanta
-============================================================================================================================================
-
-Im Electrical and Electronics Engineering student.
---------------------------------------------------
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Srinivasa Manikanta =============================================================================================================================
 
 an enthusiastic Electrical and Electronics Engineering (EEE) student with a passion for combining traditional electrical engineering with emerging technologies such as IoT, Smart Energy, and Artificial Intelligence.
 
 I believe engineering is not just about theory but about building real-world solutions. Over time, I’ve developed a strong interest in Green Technology, Smart Energy Systems, and Autonomous Grids, aiming to create sustainable innovations that shape the future of energy. Alongside my core engineering studies, I actively explore software development, embedded systems, and web technologies, bridging the gap between hardware and software.
 
 * 🌍  I'm based in Andhra pradesh, India
-* 🖥️  See my portfolio at [my portfolio](http://rsmk.me)
+* 🖥️  See my portfolio at [my portfolio](http://rsmk27.github.io/myportfolio)
 * ✉️  You can contact me at [srinivasmanikantarajapantula@gmail.com](mailto:srinivasmanikantarajapantula@gmail.com)
 * 🧠  I'm currently learning Ai technologies
 * 👥  I'm looking to collaborate on Embedded systems
@@ -21,14 +17,17 @@ I believe engineering is not just about theory but about building real-world sol
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Rsmk27" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/rsmk27" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a></p>
-### Badges
 
-<b>My GitHub Stats</b>
+# My GitHub Stats 
+![](https://github-readme-stats.vercel.app/api?username=Rsmk27&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rsmk27&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rsmk27&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="http://www.github.com/Rsmk27"><img src="https://github-readme-stats.vercel.app/api?username=Rsmk27&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rsmk27's GitHub stats" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rsmk27&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
 
-<a href="http://www.github.com/Rsmk27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rsmk27&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rsmk27&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Rsmk27/myportfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rsmk27&repo=myportfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Rsmk27/colorohm" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rsmk27&repo=colorohm&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+---
+[![](https://visitcount.itsvg.in/api?id=Rsmk27&icon=0&color=1)](https://visitcount.itsvg.in)
