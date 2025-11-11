@@ -86,8 +86,8 @@ Currently exploring **AI for Intelligent Control Systems** and integrating **IoT
 
 | Project | Description | Tech | Live / Repo |
 |--------|-------------|------|-------------|
-| 🟢 **ColorOhm** | Intuitive resistor color code calculator for learners & makers | HTML, CSS, JS | [Demo (if available)](https://colorohm.rsmk.me) |
-| 🤖 **AI Chatbot (GPT-OSS)** | Lightweight Next.js chatbot using open-source inference APIs | Next.js, Python API, Hugging Face | [Repo (placeholder)](https://ai.rsmk.co.in) |
+| 🟢 **ColorOhm** | Intuitive resistor color code calculator for learners & makers | HTML, CSS, JS | [Website](https://colorohm.rsmk.me) |
+| 🤖 **AI Chatbot (GPT-OSS)** | Lightweight Next.js chatbot using open-source inference APIs | Next.js, Python API, Hugging Face | [Website](https://ai.rsmk.co.in) |
 
 
 ---
