@@ -123,17 +123,6 @@ Currently exploring **AI for Intelligent Control Systems** and integrating **IoT
   </a>
 </p>
 
----
-
-## 👀 Visitor Counter
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Rsmk27&icon=0&color=1" alt="Visitor Count"/>
-  </a>
-</div>
-
----
 
 <div align="center">
   
