@@ -1,20 +1,8 @@
-<!--
-  Advanced GitHub Profile README
-  Author: Srinivasa Manikanta (Rsmk27)
-  Theme: Futuristic | Clean | Smart Energy & AI Focus
--->
 
 <div align="center">
-
-# Hi there, I’m Srinivasa Manikanta 👋
-
-### Electrical & Electronics Engineer | Smart Energy Innovator | AI Enthusiast
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Innovating+Smart+Energy+Systems;Blending+Hardware+and+AI;Building+Sustainable+Futures)
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1200&color=29E7D9&width=600&lines=Hi+there!+I'm+Srinivasa+Manikanta+%F0%9F%91%8B;Electrical+%26+Electronics+Engineer;+IoT+%7C+AI+%7C+Green+Tech+Enthusiast;" alt="Typing SVG" />
 </div>
 
----
 
 ## 🧠 About Me
 
