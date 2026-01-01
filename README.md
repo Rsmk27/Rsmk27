@@ -1,4 +1,4 @@
-# 🧬 RSMK — Electrical & Electronics Engineer | Smart Energy Systems
+# ⚡ RSMK — Electrical & Electronics Engineer | Smart Energy Systems ⚡
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=1200&color=29E7D9&width=700&lines=Srinivasa+Manikanta+Rajapantula;Electrical+%26+Electronics+Engineer;Smart+Energy+%7C+Embedded+Systems+%7C+IoT;" alt="Typing SVG" />
