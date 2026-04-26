@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=680&lines=EEE+Engineer+%C2%B7+Embedded+Systems+%C2%B7+IoT+%C2%B7+Green+Tech;Building+smart+energy+%26+embedded+solutions+%E2%9A%A1;Vibe+Coder+%E2%80%94+Cursor+%C2%B7+Copilot+%C2%B7+Claude+%C2%B7+Windsurf;A-HACKS+2026+%F0%9F%A5%88+2nd+Prize+%E2%80%94+Hardware+Category" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=680&lines=EEE+Engineer+%C2%B7+Embedded+Systems+%C2%B7+IoT+%C2%B7+Green+Tech;Building+smart+energy+%26+embedded+solutions+%E2%9A%A1;Vibe+Coder+%E2%80%94+Cursor+%C2%B7+Copilot+%C2%B7+Claude+%C2%B7+Antigravity" />
 
 <br/>
 
@@ -23,14 +23,11 @@
 ## About
 
 ```yaml
-role       : Final-Year EEE Engineer · ALIET, JNTUK · Vijayawada
-focus      : Smart Energy · Embedded IoT · Full-Stack Dev
-internship : Coromandel International Limited  ✓
-hackathon  : A-HACKS 2026 — 🥈 2nd Prize, Hardware Category
-vibe       : INFJ · Builder · Vibe Coder
+role       : Final-Year EEE Engineer · ALIET, Vijayawada
+focus      : Smart Energy · Embedded IoT · Power System · Power Electronics 
 ```
 
-I build IoT devices, full-stack web apps, and green tech prototypes — shipping fast by crafting precision AI prompts for **Cursor · Windsurf · GitHub Copilot**. From idea to production in hours, not weeks.
+I build IoT devices, full-stack web apps, and green tech prototypes — shipping fast by crafting precision AI prompts for **Claude · Antigravity · GitHub Copilot**. From idea to production in hours, not weeks.
 
 <br/>
 
@@ -43,10 +40,9 @@ I build IoT devices, full-stack web apps, and green tech prototypes — shipping
 | 03 | **ColorOhm** | Resistor color-code calculator — Web + Android APK | `React` `Vite` `Expo` | [↗](https://colorohm.rsmk.me) |
 | 04 | **AgriRover** | IoT rover — GPS trail, auto-spray, D-pad control | `ESP32` `MQTT` `Firebase` | `dev` |
 | 05 | **TrafficVision** | Real-time traffic monitoring with object detection | `Python` `OpenCV` `YOLOv8` | `planned` |
-| 06 | **AI Chatbot** | Deployed conversational AI interface | `Next.js` `Hugging Face` `Vercel` | [↗](https://rsmk.me) |
-| 07 | **AutoExhaustFan** | Smart fan controller via gas sensing | `Arduino` `MQ-2` `Relay` | [↗](https://autoexhaustfan.rsmk.co.in) |
-| 08 | **SPDS** | Solar-powered mine dewatering system | `TP4056` `Embedded` `SIH` | [↗](https://spds.rsmk.me) |
-| 09 | **GridForge** | Smart grid simulation platform | `MATLAB` `Simulink` `Web` | `dev` |
+| 06 | **AutoExhaustFan** | Smart fan controller via gas sensing | `Arduino` `MQ-2` `Relay` | [↗](https://autoexhaustfan.rsmk.co.in) |
+| 07 | **SPDS** | Solar-powered mine dewatering system | `TP4056` `Embedded` `SIH` | [↗](https://spds.rsmk.me) |
+
 
 <br/>
 
@@ -62,7 +58,7 @@ I build IoT devices, full-stack web apps, and green tech prototypes — shipping
 `C` `Python` `JavaScript` `MATLAB` `Simulink` `Solid Edge` `Git` `GitHub Actions`
 
 **AI & Vibe Coding**
-`Cursor` `Windsurf` `GitHub Copilot` `Claude` `OpenCV` `YOLOv8`
+`Cursor` `Antigravity` `GitHub Copilot` `Claude` `OpenCV` `YOLOv8`
 
 <br/>
 
@@ -92,7 +88,6 @@ I build IoT devices, full-stack web apps, and green tech prototypes — shipping
 - 🤖 Autonomous Embedded Control Systems
 - 🌿 Green Tech & Sustainable Power Infrastructure
 - 🔌 IoT at the Edge
-- 🏭 PSU / Core EEE Roles — BHEL · NTPC · PGCIL
 
 <br/>
 
